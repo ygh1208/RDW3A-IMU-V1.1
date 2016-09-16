@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armjlink.dll" 
+
+"F:\MCUPROGRAM\NXP\LPC12XX\project\RDW3A-IMU\RDW3A-IMU-V1.1\Debug\Exe\RDW3A-IMU-V1.1.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\bin\armbat.dll" 
+
+--macro "F:\MCUPROGRAM\NXP\LPC12XX\project\RDW3A-IMU\RDW3A-IMU-V1.1\config\Flash.mac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\config\flashloader\NXP\FlashNXPLPC80K_CortexLL.board" 
+
+
+
+
